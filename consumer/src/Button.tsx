@@ -1,2 +1,2 @@
-const CButton = () => <button>Hello from app1</button>;
+const CButton = () => <button>I'm from Consumer</button>;
 export default CButton;
